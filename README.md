@@ -1,2 +1,2 @@
-# Padr-es-de-Projeto-Java
+# Padrões-de-Projeto-Java
 Java Puro - Padrão de Projeto Singleton
